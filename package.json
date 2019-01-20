@@ -1,0 +1,24 @@
+{
+  "name": "syczsNodeLogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syczs/syczsNodeLogin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syczs/syczsNodeLogin/issues"
+  },
+  "homepage": "https://github.com/syczs/syczsNodeLogin#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
